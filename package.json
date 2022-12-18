@@ -12,8 +12,11 @@
     "@testing-library/user-event": "^13.5.0",
     "conva": "^0.0.0",
     "framer-motion": "^7.10.2",
+    "konva": "^8.3.14",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-konva": "^18.2.3",
+    "react-konva-utils": "^0.3.1",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
